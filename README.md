@@ -1,5 +1,5 @@
  Things to do :
-      Basic authentication mechanism
+      1.)Basic authentication mechanism
       Get data before routing
       Session maitaining
       LDAP
